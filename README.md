@@ -1,7 +1,7 @@
 # Réplica do Spotify
 
 ## Descrição:
-<p align="justify"> Réplica do Spotify para fins educativos. </p>
+<p align="justify"> Réplica da página inicial do Spotify para fins educativos. </p>
 <p align="justify">EN: Spotify home page replica for educational purposes.</p>
 
 ## Visualização:
