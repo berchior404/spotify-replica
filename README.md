@@ -5,7 +5,7 @@
 <p align="justify">EN: Spotify home page replica for educational purposes.</p>
 
 ## Visualização:
-![]()
+![](imagens/home.PNG)
 
 *Feito com [Bootstrap](https://getbootstrap.com/).*
 
